@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7efcac61-1ac8-49cd-aaa1-4e89649d7076": {
+      "ProjectGuid": "7efcac61-1ac8-49cd-aaa1-4e89649d7076",
+      "DisplayName": "USD To BGN",
+      "ColorIndex": 0
+    },
+    "3b1a4d5f-3dda-4e6d-ba17-5cab8d0529ae": {
+      "ProjectGuid": "3b1a4d5f-3dda-4e6d-ba17-5cab8d0529ae",
+      "DisplayName": "01. USD To BGN",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
